@@ -4,6 +4,8 @@ DeskChanger is a gnome-shell wallpaper slideshow extension with multiple
 profile support. The extension allows you to switch profiles on the fly
 without reloading the daemon.
 
+This is fix fork for compatibility with Gnome 47 and later
+
 ## Screenshots
 
 <img src="./screenshot-1.png?raw=true" width="256" title="Screenshot of menu">
